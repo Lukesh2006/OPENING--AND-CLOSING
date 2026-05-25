@@ -34,7 +34,7 @@ import matplotlib.pyplot as plt
 image = np.zeros((500, 500, 3), dtype=np.uint8)
 
 font = cv2.FONT_HERSHEY_SIMPLEX
-cv2.putText(image, 'NIRMAL', (100, 250), font, 1, (255, 255, 255), 2, cv2.LINE_AA)
+cv2.putText(image, 'LUKESH', (100, 250), font, 1, (255, 255, 255), 2, cv2.LINE_AA)
 
 kernel = np.ones((3, 3), np.uint8)
 
@@ -69,7 +69,9 @@ plt.show()
 
 ## Output:
 
-<img width="1088" height="364" alt="image" src="https://github.com/user-attachments/assets/897fd2d1-bc53-4b9e-ac8e-228ed2bca089" />
+<img width="1467" height="448" alt="image" src="https://github.com/user-attachments/assets/95a29bf6-7a30-45b2-959a-a90f666a1bef" />
+
+
 
 
 
