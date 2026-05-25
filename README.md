@@ -24,9 +24,9 @@ Use Closing Operation
 
  
 ## Program Developed By:
-- **Name:** NIRMAL 
-- **Register Number:**  212223240107
-```
+- **Name:** LUKESH M
+- **Register Number:**  212224230144
+```c
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
